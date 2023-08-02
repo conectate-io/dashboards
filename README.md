@@ -1,8 +1,9 @@
 # Dashboards de Grafana
 
-Este repositorio contiene Dashboards de Grafana mantenidos por los expertos de Conectate.  
-Existen dashboards diseñados a medida en la página de Grafana, los cuáles utilizamos cómo base y adaptamos a necesidades especificas y vamos manteniendo actualizados en función a mejoras que permitan una mejor visualización y/o customización a distintos casos de uso.  
-> **Para acceder al portal  oficial de dashboards de Grafana haga click en el siguiente botón** [Dashboards de Grafana](https://grafana.com/grafana/dashboards/)
+El sitio de Grafana aloja una gran cantidad de tableros mantenidos por la comunidad de Grafana, los cuáles también utilizamos cómo base de los tableros que utilizamos. Para conocer más acerca de los dashboards de Grafana acceda al sitio oficial de los dashboards de Grafana [Dashboards de Grafana](https://grafana.com/grafana/dashboards/)
+
+Este repositorio contiene Dashboards de Grafana inspirados en los dashboards creados por la comunidad de Grafana o Dashboards creados a medida por nuestro equipo.
+
 
 ## Categorías
 Los dashboards está separados por categorías, las cuáles iremos actualizando a medida que se vayan modificando/creando nuevos dashboards. Actualmente tenemos las siguientes categorías:
