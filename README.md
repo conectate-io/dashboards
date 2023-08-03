@@ -11,8 +11,8 @@ Los dashboards está separados por categorías, las cuáles iremos actualizando 
 | Categoría     | Descripción                                                      |
 | ------------- | ---------------------------------------------------------------- |
 | Networking    | Dispositivos de red cómo Routers, Switches, APs, Firewalls, etc. |
-| Servidores    | Servidores con Sistema Operativo Linux o Windows                 |
-| Base de datos | Motores de base de datos                                         |
+| Servers    | Servidores con Sistema Operativo Linux o Windows                 |
+| Database | Motores de base de datos                                         |
 
 ## Cómo utilizar los dashboards de este repositorio
 **Para utilizar un dashboard realice los siguientes pasos**
