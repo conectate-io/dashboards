@@ -47,7 +47,7 @@
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "<h1 align=\"center\" style=\"border-bottom: none\">\n\n    <a href=\"//conectate.com.py\" target=\"_blank\"><img\nalt=\"Conectate\" src=\"https://raw.githubusercontent.com/conectate-mundo/resources/main/images/Conectate_Horizontal%20Grises.png\"></a><br>\n</h1>",
+        "content": "<h1 align=\"center\" style=\"border-bottom: none\">\n\n    <a href=\"//www.conectate.com.py\" target=\"_blank\"><img\nalt=\"Conectate\" src=\"https://raw.githubusercontent.com/conectate-mundo/resources/main/images/Conectate_Horizontal%20Grises.png\"></a><br>\n</h1>",
         "mode": "html"
       },
       "pluginVersion": "9.5.7",
@@ -1423,7 +1423,7 @@
               "showLineNumbers": false,
               "showMiniMap": false
             },
-            "content": "<h1 align=\"center\" style=\"border-bottom: none\">\r\n\r\n    <a href=\"//conectate.com.py\" target=\"_blank\"><img\r\nalt=\"Conectate\" src=\"https://raw.githubusercontent.com/conectate-mundo/resources/main/logos/fortinet.png\"></a><br>\r\n</h1>\r\n\r\n",
+            "content": "<h1 align=\"center\" style=\"border-bottom: none\">\r\n\r\n    <a href=\"//www.conectate.com.py\" target=\"_blank\"><img\r\nalt=\"Conectate\" src=\"https://raw.githubusercontent.com/conectate-mundo/resources/main/logos/fortinet.png\"></a><br>\r\n</h1>\r\n\r\n",
             "mode": "html"
           },
           "pluginVersion": "9.5.7",
