@@ -211,9 +211,9 @@
       },
       "id": 192,
       "options": {
-        "colorMode": "background",
+        "colorMode": "value",
         "graphMode": "none",
-        "justifyMode": "center",
+        "justifyMode": "auto",
         "orientation": "auto",
         "reduceOptions": {
           "calcs": [
@@ -222,8 +222,7 @@
           "fields": "",
           "values": false
         },
-        "text": {},
-        "textMode": "value"
+        "textMode": "auto"
       },
       "pluginVersion": "9.5.7",
       "targets": [
@@ -4844,7 +4843,7 @@
     ]
   },
   "time": {
-    "from": "now-5m",
+    "from": "now-1h",
     "to": "now"
   },
   "timepicker": {
